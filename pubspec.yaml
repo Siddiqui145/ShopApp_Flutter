@@ -55,7 +55,7 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/images/brand/playstore.png"
+  image_path: "assets/images/brand/app_icon.jpg"
 
 
   # The "flutter_lints" package below contains a set of recommended lints to
